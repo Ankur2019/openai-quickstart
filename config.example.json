@@ -1,0 +1,7 @@
+{
+  "openAi": {
+    "apiKey": "api-key",
+    "organization": "organization-id",
+    "model": "text-davinci-003"
+  }
+}
